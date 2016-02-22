@@ -1,0 +1,9 @@
+Complex Number
+--------------
+Representation
+	x+iy
+behaviour
+	add
+		a+b = {a.x+b.x,+i(a.y+b.y)}
+	subtract
+		a-b = {a.x-b.x,+i(a.y-b.y)}
